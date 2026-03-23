@@ -1,8 +1,10 @@
 ---
 name: railil
-description: Search for Israel Rail train schedules using the railil CLI. Find routes between stations with fuzzy search, filter by date/time, and output in various formats (JSON, Markdown, Table).
-homepage: https://github.com/lirantal/railil
-metadata: {"clawdbot":{"emoji":"🚆","requires":{"bins":["railil"]},"install":[{"id":"node","kind":"node","package":"railil","bins":["railil"],"label":"Install railil (npm)"}]}}
+description: Search for Israel Rail train schedules using the railil CLI. Use when the user asks about Israeli trains, Israel Rail schedules, train routes in Israel, or mentions the railil tool. Find routes between stations with fuzzy search, filter by date/time, and output in various formats (JSON, Markdown, Table).
+metadata:
+  version: "0.1.0"
+  homepage: "https://github.com/lirantal/railil"
+  emoji: "🚆"
 ---
 
 # Railil CLI
