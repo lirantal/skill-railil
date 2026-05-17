@@ -63,6 +63,10 @@ This skill wraps the **railil** npm package. It's a community-driven project to 
 *   **NPM Package:** [railil](https://www.npmjs.com/package/railil)
 *   **Source Code:** [GitHub](https://github.com/lirantal/railil)
 
+## Contributing
+
+Please consult [CONTRIBUTING](./CONTRIBUTING.md) for guidelines on contributing to this project.
+
 ## 👤 Author
 
 **Liran Tal**
